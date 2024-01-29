@@ -1,3 +1,5 @@
+JOGO ADIVIAÇÂO PYTHON:
+
 Meu primeiro programa criado em python que é jogo de adiviação onde oferece aos jogadores a oportunidade de testar suas habilidades de adivinhação enquanto tentam descobrir os números 5 numeros secreto escolhido aleatoriamente de 0 a 10 com 5 tentativas.
 
 Objetivo do Projeto: Um programa simples em python de adiviação
